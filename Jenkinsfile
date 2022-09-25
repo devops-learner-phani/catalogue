@@ -2,4 +2,4 @@
 
 nodejs()
 
-env.COMPONENT='catalogue'
+env.COMPONENT="catalogue"
